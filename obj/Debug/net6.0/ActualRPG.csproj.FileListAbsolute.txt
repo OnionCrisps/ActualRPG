@@ -1,0 +1,15 @@
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\bin\Debug\net6.0\ActualRPG.exe
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\bin\Debug\net6.0\ActualRPG.deps.json
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\bin\Debug\net6.0\ActualRPG.runtimeconfig.json
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\bin\Debug\net6.0\ActualRPG.dll
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\bin\Debug\net6.0\ref\ActualRPG.dll
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\bin\Debug\net6.0\ActualRPG.pdb
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.csproj.AssemblyReference.cache
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.AssemblyInfoInputs.cache
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.AssemblyInfo.cs
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.csproj.CoreCompileInputs.cache
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.dll
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ref\ActualRPG.dll
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.pdb
+C:\Users\gavin\OneDrive\Desktop\ActualRPG\obj\Debug\net6.0\ActualRPG.genruntimeconfig.cache
